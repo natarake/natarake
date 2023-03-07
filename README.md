@@ -95,8 +95,11 @@ const Glenn = {
 
 <br/>
 
-### Services
-<img align="left" alt="Sanity" width="50px" style="padding-right:10px;" src="https://repository-images.githubusercontent.com/252413723/e6f28180-8882-11ea-9e76-78d72dfa2af0" /><br />
+### Headless CMS
+<img align="left" alt="Sanity" width="50px" style="padding-right:10px;" src="https://repository-images.githubusercontent.com/252413723/e6f28180-8882-11ea-9e76-78d72dfa2af0" />
+<img img align="left" alt="Sanity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+<img img align="left" alt="Sanity" width="50px" style="padding-right:10px;" src="https://reactbricks.com/_next/static/media/reactbricks_vertical.777e5f1e.svg" /><br />
+
 
 <br/>
 
