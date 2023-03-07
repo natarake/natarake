@@ -54,7 +54,7 @@ const Glenn = {
 
 ---
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- <p>
+ <!--<p>
  <code><a href = "https://developer.android.com/studio"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio"></a></code>
 <code><a href = "https://developer.apple.com/xcode"><img height="40" width="50" src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" alt="Android Studio"></a></code>
 <code><a href = "https://code.visualstudio.com/"><img height="40" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
@@ -79,7 +79,7 @@ const Glenn = {
 <code><a href = "https://www.mongodb.com"><img height="40" width="50" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"></a></code>
 <code><a href = "https://www.mysql.com/"><img height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></a></code>
 <code><a href = "https://firebase.google.com/"><img height="40" width="50" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></a></code>
- </p>
+ </p>-->
 
 <a href="https://github.com/JoykishanSharma?tab=repositories">
     <img width="500" height="auto" alt="natarake's github stats" 
