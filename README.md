@@ -6,7 +6,7 @@
 <p><em>Head of Area at <a href="https://efc.com.ph/">Ecossential Foods Corporation</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p>I've been coding for fun since 2017. This year, I decided to shift my career to something I really enjoy doing. Hence, I joined a coding bootcamp to become a professional programmer. I am currently completing personal projects to showcase my skills and land a job as a full-stack developer.
+<p>I've been coding for fun since 2017. This year, I decided to shift my career to something I really enjoy doing. Hence, I joined a coding bootcamp to become a professional programmer. I am currently completing personal projects to showcase my skills and land a job as a frontend or full-stack developer.
 
 When I'm not coding, I try various MMORPGs with friends. They call me <strong>NataNoob</strong>. I am also into cryptocurrency trading and NFT games.
 
