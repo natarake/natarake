@@ -112,11 +112,11 @@ const Glenn = {
 <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-
+---
  <p>
 <a href="https://github.com/natarake?tab=repositories">
     <img width="500" height="auto" alt="natarake's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=natarake&show_icons=true&theme=algolia&count_private=true" /></a></p>
 
----
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
