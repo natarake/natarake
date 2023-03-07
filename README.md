@@ -100,11 +100,6 @@ const Glenn = {
 
 <br/>
 
-### Headless CMS
-
-
-
-<br/>
 
 ### Tools
 
