@@ -53,35 +53,9 @@ const Glenn = {
 ```
 
 ---
-### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- <!--<p>
- <code><a href = "https://developer.android.com/studio"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Android Studio"></a></code>
-<code><a href = "https://developer.apple.com/xcode"><img height="40" width="50" src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" alt="Android Studio"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="40" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.figma.com/"><img height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></a></code>
-<br/>
-<br/>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://reactjs.org/"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a></code>
-<code><a href = "https://redux.js.org/"><img height="40" width="50" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></a></code>
-<br/>
-<br/>
-<code><a href = "https://nodejs.org/en/"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"></a></code>
-<code><a href = "https://expressjs.com/"><img height="40" width="50" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg"></a></code>
-<code><a href = "https://laravel.com/"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Laravel-four-icon.png"></a></code>
-<code><a href = "https://sandbox.amplifyapp.com/getting-started"><img height="40" width="50" src="https://seeklogo.com/images/A/aws-amplify-logo-D68DDB5AB1-seeklogo.com.png"></a></code>
-<code><a href = "https://www.sanity.io/"><img height="40" width="50" src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4"></a></code>
-<br/>
-<br/>
-<code><a href = "https://www.mongodb.com"><img height="40" width="50" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"></a></code>
-<code><a href = "https://www.mysql.com/"><img height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" width="50" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></a></code>
- </p>-->
+## Languages and Tools:
  
- ### Frontend
+### Frontend
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
