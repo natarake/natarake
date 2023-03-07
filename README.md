@@ -42,9 +42,10 @@ const Glenn = {
             js: ["node", "express"],
             php: ["laravel"]
         },
-        devOps: ["AWS"],
+        services: ["AWS"],
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Sanity", "AWS Amplify", "React Bricks"]
+        misc: ["Firebase", "Sanity", "AWS Amplify", "React Bricks"],
+        tools: ["Figma", "Git", "Postman", "Android Studio", "Xcode"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
     currentProject: "I am working on a personal project that caters to the needs of salesforce effectiveness managers utilizing a mobile app for user level employees and a dashboard website for admin level employees",
