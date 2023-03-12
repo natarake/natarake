@@ -21,7 +21,7 @@ These are the coding topics I love to study:</p>
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Glenn%20Ladrido-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/glenn-ladrido-817250146)
-[![Medium](https://img.shields.io/badge/-@gladwebdev-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@gladwebdev)
+[![Medium](https://img.shields.io/badge/-@gladwebdev-black?style=flat&logo=Medium&logoColor=white)](https://blog-gladwebdev.vercel.app/)
 [![Instagram](https://img.shields.io/badge/-@natanoobs-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/natanoobs)
 [![Gmail](https://img.shields.io/badge/-Glenn%20Ladrido-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:glenn.ladrido@gmail.com)
 
