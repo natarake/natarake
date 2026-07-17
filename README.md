@@ -6,9 +6,9 @@
 <p><em>Supervisor, Business Building at <a href="https://www.pmi.com/markets/philippines/en/about-us/overview">PMFTC Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p>I've been coding for fun since 2017. This year, I decided to shift my career to something I really enjoy doing. Hence, I joined a coding bootcamp to become a professional programmer. I am currently completing personal projects to showcase my skills and land a job as a frontend or full-stack developer.
+<p>I've been building software for fun since 2017 and continue to explore technology, AI, and modern software development through personal projects. I enjoy creating solutions that combine business insights with technology, from AI-assisted development to data-driven applications.
 
-When I'm not coding, I try various MMORPGs with friends. They call me <strong>NataNoob</strong>. I am also into cryptocurrency trading and NFT games.
+When I'm not coding, I try various MMORPGs with friends. They call me <strong>NataNoob</strong>. I am also into Cryptocurrency, Forex trading and NFT games.
 
 These are the coding topics I love to study:</p>
 
