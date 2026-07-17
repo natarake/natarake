@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <!--Introduction -->
-<p><em>Supervisor, Business Building at <a href="https://efc.com.ph/">PMFTC Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Supervisor, Business Building at <a href="https://www.pmi.com/markets/philippines/en/about-us/overview">PMFTC Inc.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <p>I've been coding for fun since 2017. This year, I decided to shift my career to something I really enjoy doing. Hence, I joined a coding bootcamp to become a professional programmer. I am currently completing personal projects to showcase my skills and land a job as a frontend or full-stack developer.
