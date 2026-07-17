@@ -75,7 +75,7 @@ const Glenn = {
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img img align="left" alt="php" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-<img img align="left" alt="Laravel" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<img img align="left" alt="Laravel" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/dev/laravel/laravel-original.svg" />
 <img img align="left" alt="NextJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><br/>
 
 <br/>
